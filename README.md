@@ -11,10 +11,14 @@
 </p>
 
 <div align="center">
-  
-  🔭 I'm currently working on [Active](https://frontend-4oaddifv9-actives-projects-11ce1f6a.vercel.app/)
+
+  🔭 I’m currently studying Computer Sciene
   
   🌱 I'm currently learning **Python**
+
+  🤝 I’m available for freelancing
+  
+  💼 I'm actively developing my personal portfolio.
   
   📫 How to reach me: **fabriandrade989@gmail.com**
   
