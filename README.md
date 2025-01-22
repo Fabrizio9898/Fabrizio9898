@@ -6,10 +6,14 @@
 
 <h3 align="center">Passionate Web Developer from Argentina 🇦🇷</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=fabrizio9898&label=Profile%20views&color=0e75b6&style=flat" alt="fabrizio9898" />
 </p>
 
+
+<a target="_blank" align="center">
+  <img align="right" style="margin-top: -60px; height: 200px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 🔭 I'm currently studying Computer Science
 
