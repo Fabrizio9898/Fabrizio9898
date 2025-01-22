@@ -11,12 +11,17 @@
 </p>
 
 
-<div align="center" style="text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<p>🔭 I’m currently studying Computer Science</p>
-<p>🌱 I'm currently learning <strong>Python</strong></p>
-<p>🤝 I’m available for freelancing</p>
-<p>💼 I'm actively developing my personal portfolio.</p>
-<p>📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="text-align: left; width: 60%;">
+    <p>🔭 I'm currently studying Computer Science</p>
+    <p>🌱 I'm currently learning <strong>Python</strong></p>
+    <p>🤝 I'm available for freelancing</p>
+    <p>💼 I'm actively developing my personal portfolio</p>
+    <p>📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a></p>
+  </div>
+  <div style="width: 35%;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
+  </div>
 </div>
 
 ---
