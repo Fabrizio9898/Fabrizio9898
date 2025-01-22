@@ -15,17 +15,16 @@
   <img align="right" style="margin-top: -120px; height: 200px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<p></p>
 
-🔭 I'm currently studying Computer Science
+* 🔭 I'm currently studying Computer Science
 
-🌱 I'm currently learning <strong>Python</strong>
+* 🌱 I'm currently learning <strong>Python</strong>
 
-🤝 I'm available for freelancing
+* 🤝 I'm available for freelancing
 
-💼 I'm actively developing my personal portfolio
+* 💼 I'm actively developing my personal portfolio
 
-📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
+* 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
 <br/>
 <p></p>
 
