@@ -11,24 +11,18 @@
 </p>
 
 <div align="center">
-
-  🔭 I’m currently studying Computer Sciene
-  
-  🌱 I'm currently learning **Python**
-
-  🤝 I’m available for freelancing
-  
-  💼 I'm actively developing my personal portfolio.
-  
-  📫 How to reach me: **fabriandrade989@gmail.com**
-  
+🔭 I’m currently studying Computer Science<br>
+🌱 I'm currently learning <strong>Python</strong><br>
+🤝 I’m available for freelancing<br>
+💼 I'm actively developing my personal portfolio.<br>
+📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
 </div>
 
 ---
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabrizio-andrade" target="¨blank">
+  <a href="https://www.linkedin.com/in/fabrizio-andrade" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-andrade" height="30" width="40" />
   </a>
 </p>
@@ -51,6 +45,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabrizio9898&show_icons=true&locale=en&theme=radical" alt="fabrizio9898" />
 </div>
-
-
-
