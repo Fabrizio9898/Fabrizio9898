@@ -12,7 +12,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" style="margin-top: -60px; height: 200px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" style="margin-top: -120px; height: 200px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 🔭 I'm currently studying Computer Science
