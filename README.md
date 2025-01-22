@@ -11,22 +11,19 @@
 </p>
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="text-align: left; width: 60%;">
-    <p>🔭 I'm currently studying Computer Science</p>
-    <p>🌱 I'm currently learning <strong>Python</strong></p>
-    <p>🤝 I'm available for freelancing</p>
-    <p>💼 I'm actively developing my personal portfolio</p>
-    <p>📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a></p>
-  </div>
-  <div style="width: 35%;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%">
-  </div>
-</div>
+🔭 I'm currently studying Computer Science
+
+🌱 I'm currently learning <strong>Python</strong>
+
+🤝 I'm available for freelancing
+
+💼 I'm actively developing my personal portfolio
+
+📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fabrizio-andrade" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-andrade" height="30" width="40" />
