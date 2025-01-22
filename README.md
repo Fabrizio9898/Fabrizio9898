@@ -15,6 +15,8 @@
   <img align="right" style="margin-top: -120px; height: 200px; width: 400px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<p></p>
+
 🔭 I'm currently studying Computer Science
 
 🌱 I'm currently learning <strong>Python</strong>
