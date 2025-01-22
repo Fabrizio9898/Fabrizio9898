@@ -11,11 +11,11 @@
 </p>
 
 <div align="center">
-🔭 I’m currently studying Computer Science<br>
-🌱 I'm currently learning <strong>Python</strong><br>
-🤝 I’m available for freelancing<br>
-💼 I'm actively developing my personal portfolio.<br>
-📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
+- 🔭 I’m currently studying Computer Science
+- 🌱 I'm currently learning <strong>Python</strong><br>
+- 🤝 I’m available for freelancing<br>
+- 💼 I'm actively developing my personal portfolio.<br>
+- 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
 </div>
 
 ---
