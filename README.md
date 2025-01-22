@@ -10,12 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=fabrizio9898&label=Profile%20views&color=0e75b6&style=flat" alt="fabrizio9898" />
 </p>
 
-<div align="center">
-- 🔭 I’m currently studying Computer Science
-- 🌱 I'm currently learning <strong>Python</strong><br>
-- 🤝 I’m available for freelancing<br>
-- 💼 I'm actively developing my personal portfolio.<br>
-- 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
+
+<div align="center" style="text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<p>🔭 I’m currently studying Computer Science</p>
+<p>🌱 I'm currently learning <strong>Python</strong></p>
+<p>🤝 I’m available for freelancing</p>
+<p>💼 I'm actively developing my personal portfolio.</p>
+<p>📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a></p>
 </div>
 
 ---
