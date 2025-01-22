@@ -24,7 +24,7 @@
 💼 I'm actively developing my personal portfolio
 
 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
-
+<br/>
 
 ---
 
