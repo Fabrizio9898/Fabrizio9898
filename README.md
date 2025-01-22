@@ -26,6 +26,7 @@
 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
 <br/>
 <p></p>
+
 ---
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="20" style="margin-right: 10px;">Connect with me 🤝</h3>
