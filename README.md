@@ -22,7 +22,7 @@
 
 * 🤝 I'm available for freelancing
 
-* 💼 I'm actively developing my personal portfolio
+* 💼 Go check my [Portfolio](https://regal-kangaroo-f694c5.netlify.app/)
 
 * 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
 <br/>
