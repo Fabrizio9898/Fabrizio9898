@@ -24,7 +24,7 @@
 
 * 💼 Go check my [Portfolio](https://regal-kangaroo-f694c5.netlify.app/)
 
-* 📫 How to reach me: <a href="mailto:fabriandrade989@gmail.com">fabriandrade989@gmail.com</a>
+* 📫 How to reach me: <a href="mailto:fabrizioandrade9898@gmail.com">fabriandrade989@gmail.com</a>
 <br/>
 <p></p>
 
