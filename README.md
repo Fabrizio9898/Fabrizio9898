@@ -18,8 +18,6 @@
 
 * 🔭 I'm currently studying Computer Science
 
-* 🌱 I'm currently learning <strong>Python</strong>
-
 * 🤝 I'm available for freelancing
 
 * 💼 Go check my [Portfolio](https://regal-kangaroo-f694c5.netlify.app/)
