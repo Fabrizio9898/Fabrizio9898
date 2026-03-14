@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Fabrizio+Andrade&center=true&size=30&color=36BCF7FF&background=FF000000&vCenter=true&width=500&height=60">
 </h1>
 
-<h3 align="center">Passionate Web Developer from Argentina 🇦🇷</h3>
+<h3 align="center">Computer Engineer & Game Development Student from Argentina 🇦🇷</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fabrizio9898&label=Profile%20views&color=0e75b6&style=flat" alt="fabrizio9898" />
@@ -16,9 +16,13 @@
 </a>
 
 
-* 🔭 I'm currently studying Computer Science
+* 🎮 Currently studying **Game Development**
 
-* 🤝 I'm available for freelancing
+* 🚀 Interested in **Game Programming, Systems and Software Development**
+
+* 🌱 Currently learning **C# and Unity**
+
+* 🤝 Open to collaborate on **game development and open source projects**
 
 * 💼 Go check my [Portfolio](https://regal-kangaroo-f694c5.netlify.app/)
 
@@ -39,7 +43,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgresql,firebase,docker,git,linux,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgresql,firebase,docker,git,linux, figma&perline=9" />
 </p>
 
 ---
