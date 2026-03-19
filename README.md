@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Fabrizio+Andrade&center=true&size=30&color=36BCF7FF&background=FF000000&vCenter=true&width=500&height=60">
 </h1>
 
-<h3 align="center">Computer Engineer & Game Development Student from Argentina 🇦🇷</h3>
+<h3 align="center">Game Development Student from Argentina 🇦🇷</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fabrizio9898&label=Profile%20views&color=0e75b6&style=flat" alt="fabrizio9898" />
