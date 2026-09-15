@@ -46,14 +46,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgresql,firebase,docker,git,linux,figma&perline=9" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrizio9898&show_icons=true&locale=en&layout=compact&theme=radical" alt="fabrizio9898" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabrizio9898&show_icons=true&locale=en&theme=radical" alt="fabrizio9898" />
-</div>
