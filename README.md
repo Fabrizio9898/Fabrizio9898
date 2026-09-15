@@ -16,13 +16,13 @@
 </a>
 
 
-* 🎮 Currently studying **Game Development**
+* 🎮 Currently studying **Game Development & Production**
 
-* 🚀 Interested in **Game Programming, Systems and Software Development**
+* 💻 Also pursuing **Computer Engineering**
 
-* 🌱 Currently learning **C# and Unity**
+* 🚀 Interested in **Game Programming, Gameplay Systems & Software Development**
 
-* 🤝 Open to collaborate on **game development and open source projects**
+* 🤝 Open to collaborate 
 
 * 💼 Go check my [Portfolio](https://regal-kangaroo-f694c5.netlify.app/](https://fabriziodev-portfolio.netlify.app/))
 
