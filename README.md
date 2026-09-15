@@ -24,7 +24,7 @@
 
 * 🤝 Open to collaborate on **game development and open source projects**
 
-* 💼 Go check my [Portfolio](https://regal-kangaroo-f694c5.netlify.app/)
+* 💼 Go check my [Portfolio]([https://regal-kangaroo-f694c5.netlify.app/](https://fabriziodev-portfolio.netlify.app/))
 
 * 📫 How to reach me: <a href="mailto:fabrizioandrade9898@gmail.com">fabrizioandrade9898@gmail.com</a>
 <br/>
